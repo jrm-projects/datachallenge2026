@@ -1,6 +1,9 @@
 <div align="center">
+
 # Rennes Data Challenge
+
 ** 2 jours pour transformer des données en solutions ! **
+
 </div>
 
 ## Merci aux organisateurs et à nos partenaires
