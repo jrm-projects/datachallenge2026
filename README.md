@@ -2,7 +2,7 @@
 
 # Rennes Data Challenge
 
-**Merci aux organisateurs et à nos partenaires**
+**Un événement réalisé avec le soutien de**
 
 [Arkea Asset Management](https://www.arkea-am.com/), [Ateme](https://www.ateme.com/fr/), [CHU Rennes](https://www.chu-rennes.fr/index.html), [Fondation Université de Rennes](https://fondation.univ-rennes.fr/)
 
