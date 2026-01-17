@@ -1,18 +1,28 @@
-<div align="center">
+# Bilan Carbone – CHU de Rennes | Data Challenge 2026
 
-# Rennes Data Challenge
+## Problème
+Améliorer l’évaluation des émissions de gaz à effet de serre (GES) liées aux activités de l’hôpital à travers quatres cas concrets :
 
-**Un événement réalisé avec le soutien de**
+#### les achats courants de l'hôpital
+#### les dispositifs médicaux
+#### la flotte de véhicules
+#### les déplacements domicile travail des salariés
 
-[Arkea Asset Management](https://www.arkea-am.com/), [Ateme](https://www.ateme.com/fr/), [CHU Rennes](https://www.chu-rennes.fr/index.html), [Fondation Université de Rennes](https://fondation.univ-rennes.fr/)
+---
 
-[Groupama](https://www.groupama.fr/regions/loire-bretagne), [Gwenlake](https://gwenlake.com), [Tac Economics](https://taceconomics.com) et [Le projet TIARe](https://intelligence-artificielle.univ-rennes.fr/tiare).
+## Méthodologie commune
+Une même grille a été appliquée aux 4 axes afin de garantir cohérence, transparence et auditabilité.
 
-</div>
+**Chaîne logique utilisée :**  
+Données disponibles → Données manquantes → Proxy → Facteur d’Émission (FE) → Calcul → Confiance → Action
+
+L’objectif n’est pas une précision illusoire, mais une estimation cohérente et utile à la décision.
+
+---
+
+## Architecture du projet
+
+Le projet est structuré par axe d’analyse afin de garantir lisibilité, indépendance des traitements et facilité de maintenance.
 
 
-![Logo](https://eco.univ-rennes.fr/sites/eco.univ-rennes.fr/files/styles/16_9_large/public/pages/RENNES%20DATA%20CHALLENGE%202025%20AFFICHE%20logos_0.png?h=cac05489&itok=uK1SdxQf)
 
-## Sujets
-> [!IMPORTANT]
-> Les données et la documentation des sujets se trouvent dans le répertoire sujets !
